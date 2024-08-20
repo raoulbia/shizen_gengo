@@ -11,7 +11,7 @@ sphinxcontrib-inlinesyntaxhighlight
 #sphinx_automodapi
 
 pytest==5.3.1
-nltk==3.5
+nltk==3.9
 pandas
 numpy
 
